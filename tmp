@@ -1,8 +1,0 @@
-mpirun -np 1 ./K_means < case.in 
-mpirun -np 2 ./K_means < case.in 
-mpirun -np 3 ./K_means < case.in 
-mpirun -np 4 ./K_means < case.in 
-mpirun -np 5 ./K_means < case.in
-mpirun -np 6 ./K_means < case.in
-mpirun -np 7 ./K_means < case.in
-mpirun -np 8 ./K_means < case.in
